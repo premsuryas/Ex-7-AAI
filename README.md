@@ -79,8 +79,8 @@ print(summary)
 ```
 
 <H3>Output</H3>
+<img width="1051" height="147" alt="image" src="https://github.com/user-attachments/assets/b5bdefc0-d99c-4b15-a2b2-9025ba97a209" />
 
-![alt text](image.png)
 
 
 <H3>Result:</H3>
