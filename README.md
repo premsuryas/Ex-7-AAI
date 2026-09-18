@@ -2,9 +2,9 @@
 <H3>EX. NO.7</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 
-<H3>NAME : ILAIYADEEPAN K</H3>
+<H3>NAME : PREM KUMAR S</H3>
 
-<H3>REGISTER NO : 212223230080</H3>
+<H3>REGISTER NO : 212223240125</H3>
 
 ## AIM:
 To perform automatic text summarization using Natural Language Processing (NLP) techniques. 
